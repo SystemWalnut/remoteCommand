@@ -1,1 +1,1 @@
-uninstall-autorun
+install-autorun
